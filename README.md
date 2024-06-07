@@ -1,3 +1,5 @@
+Utilizes TensorFlow keras to build a simple model that can predict an image's corresponding digit.
+
 Result snapshots:
 
 
